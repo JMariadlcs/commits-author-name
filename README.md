@@ -20,6 +20,7 @@ git config user.email "john@doe.org"
 ## Past commits
 
 You would need to execute the following command:
+
 NOTICE: Change values for 'WRONG_EMAIL', 'NEW_NAME' and 'NEW_EMAIL'.
 
 ```bash
