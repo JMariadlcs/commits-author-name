@@ -2,7 +2,7 @@
 
 This is a simple repo that serve as a tutorial to change Author's Name for Github commits.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JMariadlcs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmariadlcs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## From now onwards
 
