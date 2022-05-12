@@ -2,7 +2,8 @@
 
 This is a simple repo that serve as a tutorial to change Author's Name for Github commits.
 
-## From now onwards
+## From now onwards
+
 To change the authors name from now onwards you can do it globally or just in a single repo.
 
 - Globally:
